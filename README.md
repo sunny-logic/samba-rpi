@@ -1,3 +1,6 @@
+Forked from dastrasmue/rpi-samba as it allows read/write access even for readonly users. 
+The shell script in this image has been updated to ensure correct permissions are assigned.
+
 Docker container that creates a SMB share.
 
 ## Running
