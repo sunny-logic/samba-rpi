@@ -3,7 +3,7 @@ The shell script in this image has been updated to ensure correct permissions ar
 
 Docker container that creates a SMB share.
 
-## Running
+## How to Run
 
 ```
 docker run -d \

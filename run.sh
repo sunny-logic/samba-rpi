@@ -8,7 +8,6 @@
 # refer - https://www.samba.org/samba/docs/current/man-html/smb.conf.5.html#READONLy
 ####
 
-
 CONFIG_FILE="/etc/samba/smb.conf"
 
 initialized=`getent passwd |grep -c '^smbuser:'`

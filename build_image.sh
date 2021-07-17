@@ -1,2 +1,2 @@
 #!/bin/bash
-docker build --no-cache -t dastrasmue/rpi-samba:v3 .
+docker build --no-cache -t sanmativk/samba-rpi:v3 .
